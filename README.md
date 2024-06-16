@@ -4,45 +4,38 @@
 Takım 89
 
 ## Takım Üyeleri
-- ***Kaan Dalkıran*** - Product Owner
-- ***Hanife Kırca*** - Scrum Master
-- ***Helin Coşar*** - Developer
-- ***Kevser Bilgiç*** - Developer
-- ***Umut Yiğit*** - Developer
 <table>
     <tr>
       <th></th>
       <th>İsim</th>
-      <th>Unvan</th>
+      <th>Görevi</th>
     </tr>
     <tr>
-      <td><img src="https://avatars.githubusercontent.com/u/72474584?v=4" width="50" height="50" /></td>
+      <td><img src="https://ca.slack-edge.com/T02LKGXV98C-U066JLNFDJT-4801f81d8f1a-512" width="50" height="50" /></td>
       <td>Kaan Dalkıran</td>
       <td>Product Owner</td>
     </tr>
     <tr>
-      <td><img src="bootcampFiles/general/squarepics/arda.png" width="50" height="50" /></td>
+      <td><img src="https://ca.slack-edge.com/T02LKGXV98C-U066JMX6E7R-5a4383dec56f-512" width="50" height="50" /></td>
       <td>Hanife Kırca</td>
       <td>Scrum Master</td>
     </tr>
     <tr>
-      <td><img src="bootcampFiles/general/squarepics/hazal.png" width="50" height="50" /></td>
+      <td><img src="https://ca.slack-edge.com/T02LKGXV98C-U06710Q1Z5J-6173fac1baf3-512" width="50" height="50" /></td>
       <td>Helin Coşar</td>
       <td>Developer</td>
     </tr>
     <tr>
-      <td><img src="bootcampFiles/general/squarepics/merve.png" width="50" height="50" /></td>
+      <td><img src="https://ca.slack-edge.com/T02LKGXV98C-U066Z7KAK5G-f1303d96640e-192" width="50" height="50" /></td>
       <td>İsmail Atalay</td>
       <td>Developer</td>
     </tr>
     <tr>
-      <td><img src="bootcampFiles/general/squarepics/onur.png" width="50" height="50" /></td>
+      <td><img src="https://ca.slack-edge.com/T02LKGXV98C-U066Z8MAP5G-g7eac813e421-512" width="50" height="50" /></td>
       <td>Hatice Merve Arslan</td>
       <td>Developer</td>
     </tr>
   </table>
-## Oyun İsmi
-(Karar verilecek)
 
 ## Product Backlog URL
 [Takım 89 Unity Trello Backlog Board](https://trello.com/b/XGJi2Ldu/team-board)
@@ -61,7 +54,6 @@ amaçladıkları bir 3D, üçüncü şahıs, arena brawl oyunudur.
 - FPS Oyuncuları
 - Hızlı Aksiyon
 - PC oyuncuları
-- Singleplayer
 
 ---
 # **SPRINT 1**
