@@ -30,15 +30,10 @@ Takım 89
       <td>İsmail Atalay</td>
       <td>Developer</td>
     </tr>
-    <tr>
-      <td><img src="https://ca.slack-edge.com/T02LKGXV98C-U066Z8MAP5G-g7eac813e421-512" width="50" height="50" /></td>
-      <td>Hatice Merve Arslan</td>
-      <td>Developer</td>
-    </tr>
   </table>
 
 ## Product Backlog URL
-[Takım 89 Unity Trello Backlog Board](https://trello.com/b/XGJi2Ldu/team-board)
+[Takım 89 Unity Trello Backlog Board](https://trello.com/b/DXhuVIOc/kanban-tablosu)
 
 ## Oyun Açıklaması
 Cherry Chasers, oyuncular 5 kişiye kadar oyuncunun birbirleriyle mücadele ettikleri, harita üzerinde
@@ -59,7 +54,7 @@ amaçladıkları bir 3D, üçüncü şahıs, arena brawl oyunudur.
 # **SPRINT 1**
 - Sprint içi puan değerlendirmesi X olarak belirlenmiştir.
 - **Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken backlog puanı Y'dır. İlk Sprint için bitirilmesi istenilen puan sayısı 10 olarak belirlenmiştir ve hedefe ulaşılmıştır.
-- **Daily Scrum**: Whatsapp üzerinden görüşmeler sağlanmıştır. Tasarım grubu ve Ana Grup olarak iki adet grup oluşturuluştur.
+- **Daily Scrum**: Whatsapp üzerinden görüşmeler sağlanmıştır. 
   
 Toplantı ve Whatsapp ScreenShotları <blockquote class="imgur-embed-pub" lang="en" data-id="a/tT5yDdA"  ><a href="//imgur.com/a/tT5yDdA">Whatsapp</a></blockquote>
 
