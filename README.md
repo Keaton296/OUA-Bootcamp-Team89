@@ -53,7 +53,7 @@ Takım 89
 - **Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken backlog puanı Y'dır. İlk Sprint için bitirilmesi istenilen puan sayısı 10 olarak belirlenmiştir ve hedefe ulaşılmıştır.
 - **Daily Scrum**: Whatsapp üzerinden görüşmeler sağlanmıştır. 
   
-Toplantı ve Whatsapp ScreenShotları <blockquote class="imgur-embed-pub" lang="en" data-id="a/tT5yDdA"  ><a href="//imgur.com/a/tT5yDdA">Whatsapp</a></blockquote>
+Toplantı ve Whatsapp ScreenShotları:
 
 - **Sprint 1 board update**: Sprint Board Screenshot: 
 
