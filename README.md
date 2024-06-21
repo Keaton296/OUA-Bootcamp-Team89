@@ -16,13 +16,13 @@ Takım 89
       <td>Product Owner</td>
     </tr>
     <tr>
-      <td><img src="https://ca.slack-edge.com/T02LKGXV98C-U066JMX6E7R-5a4383dec56f-512" width="50" height="50" /></td>
-      <td>Hanife Kırca</td>
+      <td><img src="https://ca.slack-edge.com/T02LKGXV98C-U06710Q1Z5J-6173fac1baf3-512" width="50" height="50" /></td>
+      <td>Helin Coşar</td>
       <td>Scrum Master</td>
     </tr>
     <tr>
-      <td><img src="https://ca.slack-edge.com/T02LKGXV98C-U06710Q1Z5J-6173fac1baf3-512" width="50" height="50" /></td>
-      <td>Helin Coşar</td>
+      <td><img src="https://ca.slack-edge.com/T02LKGXV98C-U066JMX6E7R-5a4383dec56f-512" width="50" height="50" /></td>
+      <td>Hanife Kırca</td>
       <td>Developer</td>
     </tr>
     <tr>
