@@ -25,11 +25,6 @@ Takım 89
       <td>Hanife Kırca</td>
       <td>Developer</td>
     </tr>
-    <tr>
-      <td><img src="https://ca.slack-edge.com/T02LKGXV98C-U066Z7KAK5G-f1303d96640e-192" width="50" height="50" /></td>
-      <td>İsmail Atalay</td>
-      <td>Developer</td>
-    </tr>
   </table>
 
 ## Product Backlog URL
