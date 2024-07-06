@@ -1,4 +1,4 @@
-==LOGO==
+
 
 ## Takım İsmi
 Takım 89
@@ -16,79 +16,50 @@ Takım 89
       <td>Product Owner</td>
     </tr>
     <tr>
-      <td><img src="https://ca.slack-edge.com/T02LKGXV98C-U066JMX6E7R-5a4383dec56f-512" width="50" height="50" /></td>
-      <td>Hanife Kırca</td>
+      <td><img src="https://ca.slack-edge.com/T02LKGXV98C-U06710Q1Z5J-6173fac1baf3-512" width="50" height="50" /></td>
+      <td>Helin Coşar</td>
       <td>Scrum Master</td>
     </tr>
     <tr>
-      <td><img src="https://ca.slack-edge.com/T02LKGXV98C-U06710Q1Z5J-6173fac1baf3-512" width="50" height="50" /></td>
-      <td>Helin Coşar</td>
-      <td>Developer</td>
-    </tr>
-    <tr>
-      <td><img src="https://ca.slack-edge.com/T02LKGXV98C-U066Z7KAK5G-f1303d96640e-192" width="50" height="50" /></td>
-      <td>İsmail Atalay</td>
-      <td>Developer</td>
-    </tr>
-    <tr>
-      <td><img src="https://ca.slack-edge.com/T02LKGXV98C-U066Z8MAP5G-g7eac813e421-512" width="50" height="50" /></td>
-      <td>Hatice Merve Arslan</td>
+      <td><img src="https://ca.slack-edge.com/T02LKGXV98C-U066JMX6E7R-5a4383dec56f-512" width="50" height="50" /></td>
+      <td>Hanife Kırca</td>
       <td>Developer</td>
     </tr>
   </table>
 
 ## Product Backlog URL
-[Takım 89 Unity Trello Backlog Board](https://trello.com/b/XGJi2Ldu/team-board)
+[Takım 89 Unity Trello Backlog Board](https://trello.com/b/DXhuVIOc/kanban-tablosu)
 
 ## Oyun Açıklaması
-Cherry Chasers, oyuncular 5 kişiye kadar oyuncunun birbirleriyle mücadele ettikleri, harita üzerinde
-çeşitli görevleri tamamlayarak ve birbirlerini ekarte etmeye çalışarak puan topladıkları ve birinciliği
-amaçladıkları bir 3D, üçüncü şahıs, arena brawl oyunudur.
+Multiplayer bir mobil okey oyunudur.
 
 ## Oyun Özellikleri
-- 3D
-- Singleplayer
-- Gameanalytics, oyun içi veriler işlenmektedir
+- 2D
+- Masa Oyunları
 
 ## Hedef Kitle
-- FPS Oyuncuları
-- Hızlı Aksiyon
-- PC oyuncuları
+- Mobil Oyuncular
+- Masa Oyuncuları
 
 ---
 # **SPRINT 1**
-- Sprint içi puan değerlendirmesi X olarak belirlenmiştir.
-- **Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken backlog puanı Y'dır. İlk Sprint için bitirilmesi istenilen puan sayısı 10 olarak belirlenmiştir ve hedefe ulaşılmıştır.
-- **Daily Scrum**: Whatsapp üzerinden görüşmeler sağlanmıştır. Tasarım grubu ve Ana Grup olarak iki adet grup oluşturuluştur.
+- Sprint içi puan değerlendirmesi 10 olarak belirlenmiştir ve hedefe ulaşılmıştır.
+- **Daily Scrum**: Whatsapp üzerinden görüşmeler sağlanmıştır. 
   
-Toplantı ve Whatsapp ScreenShotları <blockquote class="imgur-embed-pub" lang="en" data-id="a/tT5yDdA"  ><a href="//imgur.com/a/tT5yDdA">Whatsapp</a></blockquote>
-
-- **Tasarım ve Developing Mantığı**: Tasarım tarafı aynı zamanda developing kısmında da çalışacaktır. 1. ve 2. Sprint'te tasarım dilinin tam oturması için ayrı grup oluşturulması takımca doğru bulunmuştur.
-- **Tasarım Grubu Üyeleri**: Arif, Kevser, Hilal.
+[Toplantı ve Whatsapp ScreenShotları](https://drive.google.com/drive/folders/1CObh6JN8v0-zCzSqvY6jy9nizadXCjkE?usp=drive_link)
 - **Sprint 1 board update**: Sprint Board Screenshot: 
-<img width="1179" alt="Trello 1  Sprint" src="https://github.com/kevsoOther/U-21-Cherry-Chasers/assets/170053523/4802c0e5-d5ca-4d28-90d1-243e742f5974">
-
+<img src="https://github.com/Keaton296/OUA-Bootcamp-Team89/assets/72474584/e440b4a5-3318-40f5-bdfd-c6dfc5572a0f" alt="sprint1" width="1000" height="600">
 
 - **Ürün Durumu**: Ekran Görüntüleri:
-![I╠çlk Karakter](https://github.com/kevsoOther/U-21-Cherry-Chasers/assets/170053523/bcbc097b-10e1-44de-88f6-e6e2618a6f1e)
-<img width="1293" alt="Map Taslak" src="https://github.com/kevsoOther/U-21-Cherry-Chasers/assets/170053523/bdcd68e9-aa61-4fa6-a0f3-a5fe2e12e614">
-<img width="1366" alt="Toplant─▒ 1" src="https://github.com/kevsoOther/U-21-Cherry-Chasers/assets/170053523/05b64c35-0c20-434f-af61-1eca31360159">
-<img width="570" alt="Ekran Resmi 2023-06-19 00 53 39" src="https://github.com/kevsoOther/U-21-Cherry-Chasers/assets/170053523/470f574d-fe67-478d-b228-32d885e2c156">
-
-
-  ![GIF 1](https://i.imgur.com/7a7pykI.gif)
+ <img src="https://github.com/Keaton296/OUA-Bootcamp-Team89/assets/72474584/d40d4aa8-8f1c-4105-87e1-026fe16ef920" alt="anaekran" width="500" height="300">
+ <img src="https://github.com/Keaton296/OUA-Bootcamp-Team89/assets/72474584/0223fe42-e1ac-4268-865d-01510910b156" alt="oyun" width="500" height="300">
 
 
   **Sprint Review**:
-- Map ve karakterlerin sayısına, low poly bir tasarım diline hakim olmasına karar verilmiştir.
-- Sprint Review katılımcıları: Ahmet Yunus Turna, Arif Furkan Karaca, Kevser Bilgiç, Umut Yiğit, Hilal Karakuş.
+- Ana ekran ve Oyun tasarımları yapıldı
+- Multiplayer oyun kod tasarımına başlanıldı
 
 
 
-  **Sprint Retrospective:**
-- Roller ile ilgili düzenleme yapılmış, product owner değişmiştir.
-- Tasarım grubu ile ayrı toplantı yapıldı. Modelleme konusunda görev dağılımı yapılmıştır.
-- Karakterin hareket animasyonları ve mekanikleri eklenmiştir.
-- Map üzerindeki platformlara mekanikler eklenmiştir.
-
----
+ **Sprint Retrospective:**
+- Takım kaynaklarının tekrar değerlendirilmesi sonucu projenin boyutunda küçülmeye gidildi.
