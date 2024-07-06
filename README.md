@@ -1,4 +1,4 @@
-==LOGO==
+
 
 ## Takım İsmi
 Takım 89
@@ -31,37 +31,35 @@ Takım 89
 [Takım 89 Unity Trello Backlog Board](https://trello.com/b/DXhuVIOc/kanban-tablosu)
 
 ## Oyun Açıklaması
-İki kişilik bir room escape puzzle oyunudur.
+Multiplayer bir mobil okey oyunudur.
 
 ## Oyun Özellikleri
-- 3D
-- Multiplayer (2)
+- 2D
+- Masa Oyunları
 
 ## Hedef Kitle
-- Puzzle
-- Hikaye
-- PC
+- Mobil Oyuncular
+- Masa Oyuncuları
 
 ---
 # **SPRINT 1**
-- Sprint içi puan değerlendirmesi X olarak belirlenmiştir.
-- **Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken backlog puanı Y'dır. İlk Sprint için bitirilmesi istenilen puan sayısı 10 olarak belirlenmiştir ve hedefe ulaşılmıştır.
+- Sprint içi puan değerlendirmesi 10 olarak belirlenmiştir ve hedefe ulaşılmıştır.
 - **Daily Scrum**: Whatsapp üzerinden görüşmeler sağlanmıştır. 
   
-Toplantı ve Whatsapp ScreenShotları:
-
+[Toplantı ve Whatsapp ScreenShotları](https://drive.google.com/drive/folders/1CObh6JN8v0-zCzSqvY6jy9nizadXCjkE?usp=drive_link)
 - **Sprint 1 board update**: Sprint Board Screenshot: 
-
+<img src="https://github.com/Keaton296/OUA-Bootcamp-Team89/assets/72474584/e440b4a5-3318-40f5-bdfd-c6dfc5572a0f" alt="sprint1" width="1000" height="600">
 
 - **Ürün Durumu**: Ekran Görüntüleri:
+ <img src="https://github.com/Keaton296/OUA-Bootcamp-Team89/assets/72474584/d40d4aa8-8f1c-4105-87e1-026fe16ef920" alt="anaekran" width="500" height="300">
+ <img src="https://github.com/Keaton296/OUA-Bootcamp-Team89/assets/72474584/0223fe42-e1ac-4268-865d-01510910b156" alt="oyun" width="500" height="300">
 
 
   **Sprint Review**:
-- Lorem ipsum
+- Ana ekran ve Oyun tasarımları yapıldı
+- Multiplayer oyun kod tasarımına başlanıldı
 
 
 
-  **Sprint Retrospective:**
-- Lorem ipsum
-
----
+ **Sprint Retrospective:**
+- Takım kaynaklarının tekrar değerlendirilmesi sonucu projenin boyutunda küçülmeye gidildi.
