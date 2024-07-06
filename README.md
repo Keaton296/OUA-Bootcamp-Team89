@@ -35,6 +35,7 @@ Multiplayer bir mobil okey oyunudur.
 
 ## Oyun Özellikleri
 - 2D
+- Multiplayer
 - Masa Oyunları
 
 ## Hedef Kitle
