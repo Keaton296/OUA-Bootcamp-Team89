@@ -5,7 +5,8 @@ using UnityEngine;
 
 public class RoomData : NetworkBehaviour
 {
-    Oyuncu[] Oyuncular;
+    
+    PlayerSeatData[] Oyuncular;
     
     public override void OnNetworkSpawn()
     {
