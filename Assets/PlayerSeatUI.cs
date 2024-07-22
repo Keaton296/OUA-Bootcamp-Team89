@@ -8,7 +8,7 @@ public class PlayerSeatUI : MonoBehaviour
 {
     private void Start()
     {
-        NetworkManager.Singleton.On
+        //NetworkManager.Singleton.On
     }
     private PlayerSeatData oyuncuRef;
     public PlayerSeatData OyuncuRef
