@@ -53,6 +53,7 @@ Multiplayer bir mobil okey oyunudur.
 
 - **Ürün Durumu**: Ekran Görüntüleri:
  <img src="https://github.com/Keaton296/OUA-Bootcamp-Team89/assets/72474584/d40d4aa8-8f1c-4105-87e1-026fe16ef920" alt="anaekran" width="500" height="300">
+
  <img src="https://github.com/Keaton296/OUA-Bootcamp-Team89/assets/72474584/0223fe42-e1ac-4268-865d-01510910b156" alt="oyun" width="500" height="300">
 
 
@@ -64,3 +65,21 @@ Multiplayer bir mobil okey oyunudur.
 
  **Sprint Retrospective:**
 - Takım kaynaklarının tekrar değerlendirilmesi sonucu projenin boyutunda küçülmeye gidildi.
+
+# **SPRINT 2**
+- Sprint içi puan değerlendirmesi 7 olarak belirlenmiştir ve hedefe ulaşılmıştır.
+
+- **Sprint 2 board update**: Sprint Board Screenshot: 
+<img src="https://github.com/user-attachments/assets/e40a95cc-9de6-45ce-8a2b-dbfa301632dd" alt="sprint1" width="1000" height="800">
+
+- **Ürün Durumu**: Ekran Görüntüleri:
+ <img src="https://github.com/user-attachments/assets/c849adab-4685-46da-8148-d5642272c054" alt="anaekran" width="500" height="300">
+
+
+  **Sprint Review**:
+- Isteka tasarımı ve Multiplayer oyunun kod tasarımında ilerleme kaydedildi.
+
+
+
+ **Sprint Retrospective:**
+- Oyunun görsel temasına karar verildi ve multiplayer kod yapısı oluşturulmaya başlandı.
