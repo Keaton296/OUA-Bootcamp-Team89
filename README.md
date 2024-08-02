@@ -83,3 +83,21 @@ Multiplayer bir mobil okey oyunudur.
 
  **Sprint Retrospective:**
 - Oyunun görsel temasına karar verildi ve multiplayer kod yapısı oluşturulmaya başlandı.
+
+# **SPRINT 3**
+- Sprint içi puan değerlendirmesi 5 olarak belirlenmiştir ve hedefe ulaşılmıştır.
+
+- **Sprint 3 board update**: Sprint Board Screenshot: 
+<img src="https://github.com/user-attachments/assets/420191f2-9572-4a19-93f4-86d64c9b0af6" alt="sprint1" width="1000" height="800">
+
+
+- **Ürün Durumu**: Ekran Görüntüleri:
+ <img src="https://github.com/user-attachments/assets/d230447c-1e27-4bd1-b202-46fbdeaecd34" alt="anaekran" width="500" height="300">
+
+
+
+  **Sprint Review**:
+- Taşların yazılarının tasarım ve implementasyonu yapıldı, Multiplayer mimarisinde büyük ilerleme kaydedildi, Masa için bir doku oluşturuldu.
+
+ **Sprint Retrospective:**
+- Önemli olan assetlerin yapımı bitti ve sadece oyunun kod eksiği kaldığı ve takımda 1 developer olduğu için proje yarım kalmıştır, ancak kısa süre içerisinde Multiplayer yapısının bitebileceği için projenin de sonuçlanabileceği tartışıldı.
