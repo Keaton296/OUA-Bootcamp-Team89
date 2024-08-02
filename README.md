@@ -70,10 +70,10 @@ Multiplayer bir mobil okey oyunudur.
 - Sprint içi puan değerlendirmesi 7 olarak belirlenmiştir ve hedefe ulaşılmıştır.
 
 - **Sprint 2 board update**: Sprint Board Screenshot: 
-<img src="https://github.com/user-attachments/assets/e40a95cc-9de6-45ce-8a2b-dbfa301632dd" alt="sprint1" width="1000" height="800">
+<img src="https://github.com/user-attachments/assets/e40a95cc-9de6-45ce-8a2b-dbfa301632dd" alt="sprint2" width="1000" height="800">
 
 - **Ürün Durumu**: Ekran Görüntüleri:
- <img src="https://github.com/user-attachments/assets/c849adab-4685-46da-8148-d5642272c054" alt="anaekran" width="500" height="300">
+ <img src="https://github.com/user-attachments/assets/c849adab-4685-46da-8148-d5642272c054" alt="oyunekrani2" width="500" height="300">
 
 
   **Sprint Review**:
@@ -88,11 +88,13 @@ Multiplayer bir mobil okey oyunudur.
 - Sprint içi puan değerlendirmesi 5 olarak belirlenmiştir ve hedefe ulaşılmıştır.
 
 - **Sprint 3 board update**: Sprint Board Screenshot: 
-<img src="https://github.com/user-attachments/assets/420191f2-9572-4a19-93f4-86d64c9b0af6" alt="sprint1" width="1000" height="800">
+<img src="https://github.com/user-attachments/assets/420191f2-9572-4a19-93f4-86d64c9b0af6" alt="sprint3" width="1000" height="800">
+
 
 
 - **Ürün Durumu**: Ekran Görüntüleri:
- <img src="https://github.com/user-attachments/assets/d230447c-1e27-4bd1-b202-46fbdeaecd34" alt="anaekran" width="500" height="300">
+ <img src="https://github.com/user-attachments/assets/d04e5fa4-7a1c-48c7-b725-40e77e75af42" alt="baslatmaekrani" width="500" height="300">
+ <img src="https://github.com/user-attachments/assets/d230447c-1e27-4bd1-b202-46fbdeaecd34" alt="oyunekrani3" width="500" height="300">
 
 
 
