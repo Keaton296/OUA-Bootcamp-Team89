@@ -3,29 +3,29 @@ using System;
 
 public struct Chip : INetworkSerializable,IEquatable<Chip>
 {
-    public short sayi;
-    public ChipColor tasRengi;
+    public short num;
+    public ChipColor chipColor;
     public Chip(short number, ChipColor cColor)
     {
-        sayi = number;
-        tasRengi = cColor;
+        num = number;
+        chipColor = cColor;
     }
     public bool Equals(Chip other)
     {
-        if(sayi == other.sayi && tasRengi == other.tasRengi) return true;
+        if(num == other.num && chipColor == other.chipColor) return true;
         else return false;
     }
 
     public void NetworkSerialize<T>(BufferSerializer<T> serializer) where T : IReaderWriter
     {
-        serializer.SerializeValue(ref sayi);
-        serializer.SerializeValue(ref tasRengi);
+        serializer.SerializeValue(ref num);
+        serializer.SerializeValue(ref chipColor);
     }
 }
 public enum ChipColor
 {
-    Kirmizi,
-    Siyah,
-    Mavi,
-    Sari
+    Red,
+    Black,
+    Blue,
+    Yellow
 }

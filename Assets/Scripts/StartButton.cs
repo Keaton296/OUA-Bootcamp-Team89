@@ -16,8 +16,5 @@ public class StartButton : MonoBehaviour
     private void OnStartClickHandler()
     {
         networkManager.StartHost();
-        NetworkObject spawnedTurnManager = Instantiate(turnManager).GetComponent<NetworkObject>();
-        spawnedTurnManager.SpawnWithOwnership(NetworkManager.ServerClientId, true);
-        popupWindowScreenObject.SetActive(false);
     }
 }
